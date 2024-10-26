@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello I'm Dennis Kateeti, a crossplatform engineer<br><br>🌱 I’m currently learning Rust<br>💬 Ask me about react native and expressJs<br>⚡ Fun fact ~ All I need is an inspiration to get started
+Hello I'm Dennis Kateeti, a crossplatform engineer
 
 
 ## 🌐 Socials:
